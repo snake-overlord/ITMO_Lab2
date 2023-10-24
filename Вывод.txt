@@ -1,0 +1,107 @@
+Pikachu Pikachu из команды синих вступает в бой!
+Pichu Pichu из команды фиолетовых вступает в бой!
+Pichu Pichu использует ThunderWave. 
+Pikachu Pikachu теряет 3 здоровья.
+
+Pikachu Pikachu использует Agility. 
+
+Pichu Pichu использует Thunderbolt. 
+Pikachu Pikachu теряет 7 здоровья.
+
+Pikachu Pikachu использует Agility. 
+
+Pikachu Pikachu использует Thunderbolt. 
+Pichu Pichu теряет 3 здоровья.
+
+Pichu Pichu использует Thunderbolt. 
+Pikachu Pikachu теряет 7 здоровья.
+Pikachu Pikachu теряет сознание.
+Celebi Celebi из команды синих вступает в бой!
+Celebi Celebi использует DreamEater. 
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 3 здоровья.
+Celebi Celebi парализован
+
+Celebi Celebi использует ThunderWave. 
+Критический удар!
+Pichu Pichu теряет 3 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+
+Celebi Celebi использует ThunderWave. 
+Критический удар!
+Pichu Pichu теряет 3 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 3 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+
+Celebi Celebi использует ThunderWave. 
+Критический удар!
+Pichu Pichu теряет 2 здоровья.
+
+Pichu Pichu использует Thunderbolt. 
+Celebi Celebi теряет 6 здоровья.
+
+Celebi Celebi использует ThunderWave. 
+Критический удар!
+Pichu Pichu теряет 3 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+Celebi Celebi использует Confide. 
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 3 здоровья.
+
+Celebi Celebi использует DreamEater. 
+Критический удар!
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+Pichu Pichu использует ThunderWave. 
+Celebi Celebi теряет 2 здоровья.
+
+
+Celebi Celebi использует ThunderWave. 
+Критический удар!
+Pichu Pichu теряет 3 здоровья.
+
+Pichu Pichu использует Thunderbolt. 
+Celebi Celebi теряет 6 здоровья.
+
+Celebi Celebi использует LeafStorm. 
+Критический удар!
+Pichu Pichu теряет 61 здоровья.
+Pichu Pichu теряет сознание.
+Raichu Raichu из команды фиолетовых вступает в бой!
+Celebi Celebi использует Confide. 
+
+Raichu Raichu использует ChargeBeam. 
+Celebi Celebi теряет 8 здоровья.
+Celebi Celebi теряет сознание.
+Dewgong Dewgong из команды синих вступает в бой!
+Raichu Raichu использует Agility. 
+
+Dewgong Dewgong использует TakeDown. 
+Raichu Raichu теряет 3 здоровья.
+
+Raichu Raichu использует ChargeBeam. 
+Критический удар!
+Dewgong Dewgong теряет 69 здоровья.
+Dewgong Dewgong теряет сознание.
+В команде синих не осталось покемонов.
+Команда фиолетовых побеждает в этом бою!
+
+Process finished with exit code 0
